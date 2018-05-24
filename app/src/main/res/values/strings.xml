@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discount Calc</string>
+    <string name="price">price</string>
+    <string name="discount_percent">discount percent</string>
+    <string name="calculate">Calculate</string>
+    <string name="Calculate">Calculate</string>
+</resources>
